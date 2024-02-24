@@ -21,12 +21,11 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" /><br>
 	<img src="https://img.shields.io/badge/robotframework-000000?style=flat&logo=robotframework&logoColor=white" /><br>	
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" /><br>  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white" /><br>
+	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" /><br>
+	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" /><br>  
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" /><br>
+	<img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white" /><br>
 	<img src="https://img.shields.io/badge/ansible-EE0000?style=flat&logo=ansible&logoColor=white" /><br>
 </div>
 
